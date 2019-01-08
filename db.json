@@ -1,0 +1,90 @@
+{
+  "credit_cards": [{
+      "name": "招商young卡",
+      "iconFontClass": "credit-icon-cmb",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述",
+      "link": "https://xyk.cmbchina.com/?WT.refp=%2Factivate%2Fhome$&isForcedJump=true"
+    },
+    {
+      "name": "中信卡",
+      "icon": "credit-icon-citic",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述",
+      "link": "https://creditcard.ecitic.com/h5/index.html?sid=SJW0000212"
+    }
+  ],
+  "p2p": [{
+      "name": "人人贷",
+      "link": "http://baidu.com",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述"
+    },
+    {
+      "name": "你我贷",
+      "link": "http://baidu.com",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述"
+    },
+    {
+      "name": "给你花",
+      "link": "http://baidu.com",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述"
+    },
+    {
+      "name": "百度满易贷",
+      "link": "http://baidu.com",
+      "iconUrl": "http://placehold.jp/100x100.png",
+      "description": "描述"
+    }
+  ],
+  "insurances": [{
+      "name": "平安车险",
+      "link": "http://baidu.com",
+      "type": 1,
+      "description": "描述"
+    },
+    {
+      "name": "太平洋车险",
+      "link": "http://baidu.com",
+      "type": 1,
+      "description": "描述"
+    },
+    {
+      "name": "人保车险",
+      "link": "http://baidu.com",
+      "type": 1,
+      "description": "描述"
+    },
+    {
+      "name": "平安福",
+      "link": "http://baidu.com",
+      "type": 2,
+      "description": "描述"
+    },
+    {
+      "name": "泰康人寿",
+      "link": "http://baidu.com",
+      "type": 2,
+      "description": "描述"
+    },
+    {
+      "name": "生命人寿",
+      "link": "http://baidu.com",
+      "type": 2,
+      "description": "描述"
+    }
+  ],
+  "pos": [{
+      "name": "拉卡拉",
+      "link": "http://baidu.com",
+      "description": "描述"
+    },
+    {
+      "name": "盛钱包",
+      "link": "http://baidu.com",
+      "description": "描述"
+    }
+  ]
+}
